@@ -4,7 +4,8 @@
 
 We have made a command-line application so that the user can provide the temperature values continuously. 
 It is one of the best applications in terms of optimized performance and space simultaneously, and code was written in a clean, readable, and maintainable manner.   
- We have built the most robust, resilient class to counter any form of wrong data entry and security attacks.
+ It records the temperature continously provided by the user and up on his request it can deliver the lowest temperature, highest temperature recorded so far. It also calculates average of the temperatures provided so far and size. 
+We have built the most robust, resilient class to counter any form of wrong data entry and security attacks.
 The application has an excellent exception handling mechanism.
 
 **How to run**
